@@ -1,4 +1,4 @@
-'> python hw2.py [INPUT] [METHOD]'
+`> python hw2.py [INPUT] [METHOD]`
 
 ### INPUT: line-separated numeric data
 
@@ -12,4 +12,4 @@
 ————
 ### example 
 
-'> python hw2.py delta.txt my'
+`> python hw2.py delta.txt my`
